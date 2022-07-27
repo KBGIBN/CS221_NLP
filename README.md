@@ -1,7 +1,9 @@
 # Clothing Retrieval
+
 Members:
-Viet Tran Hoang, 18520785@gm.uit.edu.vn
-Thi Hoang Ngoc Ba, 19522255@gm.uit.edu.vn
+
+- Viet Tran Hoang, 18520785@gm.uit.edu.vn
+- Thi Hoang Ngoc Ba, 19522255@gm.uit.edu.vn
 
 
 **Abstract.** 
